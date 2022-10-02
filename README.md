@@ -127,9 +127,9 @@ This year, the first 55,000 participants can earn a T-shirt.
 Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
 
 <table>
-	<tr>
-		<td>
-			<a href="https://github.com/Mystery-2-Dev/HacktoBerFest--2022-/graphs/contributors">
+<tr>
+<td>
+<a href="https://github.com/Mystery-2-Dev/HacktoBerFest--2022-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Mystery-2-Dev/HacktoBerFest--2022-"/>
 </a>
 		</td>
